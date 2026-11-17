@@ -11,21 +11,18 @@
 
 ---
 
-## 🚀 Live Demo & Deployment
+##  Live Demo & Deployment
 
 - **Production Deployment:** [mars-eva-navigation-system.vercel.app](https://mars-eva-navigation-system.vercel.app)
 - **Source Code Repository:** [github.com/AnuragMacOS/mars-eva-navigation-system](https://github.com/AnuragMacOS/mars-eva-navigation-system)
 
-### 🎥 Project Walkthrough Demo
+### Project Walkthrough Demo
 
-<!-- DEMO VIDEO: Insert your video walkthrough link or embed below -->
-[![Mars EVA Navigation System Demo Video](https://img.youtube.com/vi/CV7AYfMRyMM/maxresdefault.jpg)](https://youtu.be/CV7AYfMRyMM)
 
-> 📹 *Click above to watch the walkthrough demonstration of the Mars EVA Navigation System in action.*
 
 ---
 
-## 🌌 NASA Space Apps Challenge 2026
+## NASA Space Apps Challenge 2026
 
 - **Challenge Track:** *Interplanetary Survival Guide: Martian Map*
 - **Local Event:** Delhi, India
@@ -34,7 +31,7 @@
 
 ---
 
-## 🛰️ Overview & Operational Problem
+##  Overview & Operational Problem
 
 During a crewed Martian surface mission, astronauts undertaking Extravehicular Activity (EVA) operate under extreme environmental constraints with no room for error:
 
@@ -47,7 +44,7 @@ The **Mars EVA Navigation System (MENS)** solves this autonomy bottleneck by giv
 
 ---
 
-## 📡 NASA APIs, Datasets & Scientific Citations
+##  NASA APIs, Datasets & Scientific Citations
 
 This project directly integrates verified, open-access NASA planetary data, live heliophysics feeds, and human spaceflight standards:
 
@@ -62,7 +59,7 @@ This project directly integrates verified, open-access NASA planetary data, live
 
 ---
 
-## ⚡ Core Features
+## Core Features
 
 - **Multi-Spectral Basemap Switcher:** Seamlessly toggles between NASA MOLA Elevation Altimetry, Viking MDIM 2.1 Optical mosaic, and OpenPlanetary surface cartography with automatic multi-zoom tile fallbacks.
 - **Autonomous Geodesic Traversal Engine:** Point-and-click tactical waypoint sequencing calculating true great-circle surface distances over the Martian ellipsoid (mean radius: 3,389.5 km).
@@ -73,7 +70,7 @@ This project directly integrates verified, open-access NASA planetary data, live
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 - **Framework:** [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
 - **Build Tool:** [Vite](https://vitejs.dev/) (sub-300ms production builds)
@@ -84,7 +81,7 @@ This project directly integrates verified, open-access NASA planetary data, live
 
 ---
 
-## 💻 Local Development Setup
+##  Local Development Setup
 
 ### Prerequisites
 - Node.js (v18 or higher)
