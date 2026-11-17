@@ -14,9 +14,11 @@
 ##  Live Demo & Deployment
 
 - **Production Deployment:** [mars-eva-navigation-system.vercel.app](https://mars-eva-navigation-system.vercel.app)
-- **Source Code Repository:** [github.com/AnuragMacOS/mars-eva-navigation-system](https://github.com/AnuragMacOS/mars-eva-navigation-system)
+- **Source Code Repository:** [github.com/AnuragMacOS/Mars-EVA-Navigation-System_NASAhackathon2026](https://github.com/AnuragMacOS/Mars-EVA-Navigation-System_NASAhackathon2026)
 
-### Project Walkthrough Demo
+### 🎥 Project Walkthrough Demo
+
+https://github.com/user-attachments/assets/1bb41ef1-c5df-4355-8dc8-222d89ebe60d
 
 
 
