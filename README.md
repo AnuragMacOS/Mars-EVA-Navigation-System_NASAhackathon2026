@@ -27,9 +27,6 @@ https://github.com/user-attachments/assets/1bb41ef1-c5df-4355-8dc8-222d89ebe60d
 ## NASA Space Apps Challenge 2026
 
 - **Challenge Track:** *Interplanetary Survival Guide: Martian Map*
-- **Local Event:** Delhi, India
-- **Team Name:** Himalayan Coders
-- **Team Members:** Anurag Bhatt & Sahil Singh
 
 ---
 
